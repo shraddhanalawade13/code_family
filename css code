@@ -1,0 +1,135 @@
+<style>
+    body {
+        color: white;
+        margin: 0px;
+        padding: 0px;
+        background: url("background\ image.jpg")
+    }
+
+    .left {
+        display: inline-block;
+        position: absolute;
+        left: 60px;
+        top: 20px;
+        margin: 10px auto;
+        font-size: 15px;
+
+    }
+
+    .left img {
+        width: 136px;
+
+
+
+    }
+
+    .left.div {
+        line-height: 19px;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .mid {
+        display: block;
+        width: 36%;
+        margin: 29px auto;
+        /* border: 2px solid green;*/
+
+    }
+
+    .right {
+        position: absolute;
+        right: 34px;
+        top: 43px;
+        display: inline-block;
+
+    }
+
+    .navbar {
+        display: inline-block;
+
+    }
+
+    .navbar li {
+        display: inline-block;
+        font-size: 17px
+    }
+
+    .navbar li a {
+
+        text-decoration: underline;
+        color: white;
+        padding: 34px 23px;
+    }
+
+    .navbar li a:hover,
+    .navbar li a.active {
+        color: gray;
+        text-decoration: underline;
+    }
+
+    .btn {
+        margin: 0px 9px;
+        background-color: black;
+        color: white;
+        padding: 4px 14px;
+        border: 2px solid grey;
+        border-radius: 10px;
+        font-size: 20px;
+        cursor: pointer;
+        text-align: center;
+    }
+
+    .btn:hover {
+        text-align: center;
+        background-color: rgb(31, 30, 30);
+    }
+
+    .container {
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 28px;
+        margin: 106px 90px;
+        padding: 75px;
+        width: 22%;
+        display: inline-block;
+
+
+    }
+    .container2{
+        
+        border-radius: 28px;
+        text-size-adjust: 10px;
+        width: 105%;
+        display: inline-block;
+        font-size: 22px;
+
+    }
+    .container2 li a {
+        border: 2px solid white;
+        padding: 4px;
+        background-color: black;
+        color: rgb(253, 253, 253);
+        font-size: 15px;
+    }
+
+    .form.group input {
+        text-align: center;
+        display: block;
+        width: 508px;
+        padding: 1px;
+        border: 2px solid black;
+        margin: 11px auto;
+        font-size: 25px;
+        border-radius: 8px;
+    }
+
+    .container {
+        text-align: center;
+    }
+
+    .container button {
+
+        display: block;
+        width: 74% margin: 20px auto;
+    }
+</style>
