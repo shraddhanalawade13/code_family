@@ -1,0 +1,70 @@
+<body>
+    <header class="header">
+        <!--logo-->
+        <div class="left">
+            <img src="binary.jpg" alt="">
+            <h6>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Logo</h6>
+
+
+
+        </div>
+        <!--navbar-->
+        <div class="mid">
+            <ul class="navbar">
+
+                <li><a href="/portfolioweb.html" target="blank">Work-experience</a></li>
+                <li><a href="/portfolioweb.html" target="blank">About me</a></li>
+                <li><a href="/portfolioweb.html" target="blank">Skill</a></li>
+                <li><a href="/portfolioweb.html" target="blank">Contact info</a></li>
+
+            </ul>
+
+        </div>
+        <!--buttons-->
+        <div class="right">
+            <button class="btn">call me</button><button class="btn">email me</button>
+
+        </div>
+    </header>
+    <div class="container">
+
+        <h1>Contact form</h1>
+        <form action="noaction.php">
+            <div class="form.group">
+                <input type="text" name="" placeholder="Enter your name:">
+            </div><br>
+
+
+            <div class="form.group">
+                <input type="text" name="" placeholder="Enter your Profession:">
+            </div><br>
+
+            <div class="form.group">
+                <input type="text" name="" placeholder="Enter your email:">
+            </div><br>
+
+            <div class="form.group">
+                <input type="text" name="" placeholder="Enter your phone number:">
+            </div><br>
+
+
+
+            <button class="btn">submit your info</button><br>
+            <button class="btn">Reset info</button>
+
+            <br>
+        </form>
+    </div>
+    <div class="container">
+        <div class="container2">
+            <h1>This is my info</h1>
+            <p>I am Shraddha Nalawade. I am pursuing Btech degree in Information Technology at Rajarambapu institude of Technology,Sakharale. <br>
+                I am currently working in 2 internship project. <br>
+            <li>Here is my linkdin Profile</li>
+             <li><a href="https://www.linkedin.com/in/shraddha-nalawade-09456b244.com" target="blank">Click here to go on my linkedin profile</a></li>
+            </p>
+        </div>
+        
+
+    </div>
+</body>
