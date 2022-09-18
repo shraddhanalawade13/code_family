@@ -1,0 +1,218 @@
+<style>
+        body {
+            position: relative;
+            width: 1484px;
+            height: 895px;
+
+            background: #EDC2EB;
+        }
+
+        .rectangle2 {
+            position: absolute;
+            width: 1484px;
+            height: 113px;
+
+            top: 63px;
+
+            background: #8c4a89;
+            opacity: 0.4;
+            border-radius: 0px 0px 200px 0px;
+        }
+
+        .rectangle1 {
+            border: 2px solid purple;
+            border-radius: 30px;
+            position: absolute;
+            width: 439px;
+            height: 218px;
+            left: 1010px;
+            top: 191px;
+
+            background: url(community.jpg);
+            border-radius: 30px;
+        }
+
+        .para {
+            position: absolute;
+            width: 759px;
+            height: 228px;
+            left: 150px;
+            top: 221px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 24px;
+
+            color: #000000;
+
+        }
+
+        .pa {
+
+            position: absolute;
+            width: 831px;
+            height: 44px;
+            left: 43px;
+            top: 96px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 36px;
+            line-height: 44px;
+            /* identical to box height */
+
+
+            color: #000000;
+        }
+
+        .pic {
+            position: absolute;
+            width: 650px;
+            height: 403px;
+            left: 149px;
+            top: 467px;
+            border: 2px solid purple;
+            border-radius: 30px;
+            background: url(Cubic.jpg);
+            background-image: 500px;
+        }
+
+
+        .home {
+            position: absolute;
+            width: 72px;
+            height: 72px;
+            left: 906px;
+            top: 476px;
+            background: url(home.png);
+            background-size: 70px;
+            background-image: no-repeat;
+        }
+
+
+        .parag {
+            position: absolute;
+            width: 95px;
+            height: 183px;
+            left: 901px;
+            top: 556px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #000000;
+        }
+
+        .call {
+            position: absolute;
+            width: 70px;
+            height: 69px;
+            left: 1236px;
+            top: 476px;
+            background: url(call.png);
+            background-size: 70px;
+            background-image: no-repeat;
+        }
+
+        .calldetails {
+            position: absolute;
+            width: 96px;
+            height: 186px;
+            left: 1233px;
+            top: 563px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #000000;
+
+        }
+
+        .foot {
+            position: absolute;
+            /* border: 2px solid purple; */
+            border-radius: 73px;
+            width: 632px;
+            height: 94px;
+            left: 823px;
+            top: 778px;
+            background: #D683D2;
+        }
+
+        .text {
+            position: absolute;
+            width: 270px;
+            height: 30px;
+            left: 845px;
+            top: 811px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 17px;
+            line-height: 24px;
+            color: #000000;
+        }
+
+        .logo {
+            position: absolute;
+            width: 105px;
+            height: 83px;
+            left: 1311px;
+            top: 784px;
+            background: url(enviroment.jpg);
+            background-size: 100PX;
+        }
+
+        .instagram {
+            position: absolute;
+            width: 69px;
+            height: 69px;
+            left: 1373px;
+            top: 476px;
+            background: url(instagram.jpg);
+            background-size: 69px;
+        }
+
+        .instagramdetails {
+            position: absolute;
+            width: 85px;
+            height: 109px;
+            left: 1370px;
+            top: 557px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 24px;
+            color: #000000;
+        }
+
+        .twitter {
+            position: absolute;
+            width: 79px;
+            height: 65px;
+            left: 1079px;
+            top: 476px;
+            background: url(twitter.png);
+            background-size: 80px;
+        }
+
+        .twitterdetails {
+            position: absolute;
+            width: 76px;
+            height: 148px;
+            left: 1081px;
+            top: 552px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 24px;
+            color: #000000;
+        }
+    </style>
